@@ -1,2 +1,2 @@
 #!/bin/bash
-passte -d, u + + | cut -d, f1
+passte -d, - - | cut -d, f1
